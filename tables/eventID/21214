@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "21214",
+    "event_summary": "Proxy server lost connection",
+    "event_details": "Backup server has lost connection to backup proxy '<proxy name>'.",
+    "event_severity": "Error",
+    "event_source": null,
+    "event_section": "proxy server"
+  }
+}

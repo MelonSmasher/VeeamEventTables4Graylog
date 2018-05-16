@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "150",
+    "event_summary": "Backup task finished",
+    "event_details": "VM \"<TaskName>\" task has finished with '<StateName>' state.",
+    "event_severity": "Info",
+    "event_source": "Backup, Replication, SureBackup",
+    "event_section": "veeam backup & replication jobs"
+  }
+}

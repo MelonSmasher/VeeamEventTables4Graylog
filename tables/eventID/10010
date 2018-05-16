@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "10010",
+    "event_summary": "Restore point created",
+    "event_details": "VM '<Vm name>' restore point has been created.",
+    "event_severity": "Info",
+    "event_source": null,
+    "event_section": "veeam backup & replication jobs"
+  }
+}

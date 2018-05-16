@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "21234",
+    "event_summary": "Wan accelerator lost connection",
+    "event_details": "Backup server has lost connection to WAN accelerator '<wan name>'.",
+    "event_severity": "Error",
+    "event_source": null,
+    "event_section": "wan accelerator"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "10090",
+    "event_summary": "Restore point updated",
+    "event_details": "VM '<Vm name>' restore point has been modified.",
+    "event_severity": "Info",
+    "event_source": null,
+    "event_section": "veeam backup & replication jobs"
+  }
+}

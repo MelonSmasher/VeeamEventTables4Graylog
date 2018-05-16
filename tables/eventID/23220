@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "23220",
+    "event_summary": "SureBackup job modified",
+    "event_details": "The SureBackup job \"<Job Name>\" has been modified.",
+    "event_severity": "Info",
+    "event_source": null,
+    "event_section": "surebackup"
+  }
+}

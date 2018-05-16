@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "512",
+    "event_summary": "VM copy job started",
+    "event_details": "<Job type> job '<Job name>' has been started.",
+    "event_severity": "Info",
+    "event_source": "VM copy",
+    "event_section": "veeam backup & replication jobs"
+  }
+}

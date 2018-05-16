@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "24020",
+    "event_summary": "License expiring",
+    "event_details": "<license type> License key for Veeam Backup & Replication <edition> is about to expire in <number of days> of Days.",
+    "event_severity": "Warning",
+    "event_source": null,
+    "event_section": "license"
+  }
+}

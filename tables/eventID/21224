@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "21224",
+    "event_summary": "Repository server lost connection",
+    "event_details": "Backup server has lost connection to backup repository '<repository name>'.",
+    "event_severity": "Error",
+    "event_source": null,
+    "event_section": "repository"
+  }
+}

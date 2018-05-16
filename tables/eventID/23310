@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "23310",
+    "event_summary": "SureBackup objects added",
+    "event_details": "\"<object count>\" objects have been created for \"<Job Name>\".",
+    "event_severity": "Info",
+    "event_source": null,
+    "event_section": "surebackup"
+  }
+}

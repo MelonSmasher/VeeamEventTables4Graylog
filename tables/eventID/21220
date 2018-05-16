@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "21220",
+    "event_summary": "Repository server established connection",
+    "event_details": "Connection to backup repository '<repository name>' has been restored.",
+    "event_severity": "Info",
+    "event_source": null,
+    "event_section": "repository"
+  }
+}

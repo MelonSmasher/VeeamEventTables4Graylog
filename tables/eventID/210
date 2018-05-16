@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "210",
+    "event_summary": "Restore session started",
+    "event_details": "Restore session has been initiated by '<User name>'.",
+    "event_severity": "Info",
+    "event_source": null,
+    "event_section": "restore"
+  }
+}

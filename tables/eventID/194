@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "194",
+    "event_summary": "Tape backup job finished",
+    "event_details": "The <Job type> Job '<Job name>' has finished with <State name> state.",
+    "event_severity": "Info, Warning, Error",
+    "event_source": null,
+    "event_section": "tape"
+  }
+}

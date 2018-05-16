@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "24050",
+    "event_summary": "License support expired",
+    "event_details": "Support contract for Veeam Backup & Replication has expired. Contact Veeam sales representative to renew your support contract.",
+    "event_severity": "Error",
+    "event_source": null,
+    "event_section": "license"
+  }
+}

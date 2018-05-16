@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "10014",
+    "event_summary": "Tape restore point created",
+    "event_details": "VM '<Task name>' restore point has been offloaded to the tape <barcode>.",
+    "event_severity": "Info",
+    "event_source": null,
+    "event_section": "tape"
+  }
+}

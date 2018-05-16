@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "21210",
+    "event_summary": "Proxy server established connection",
+    "event_details": "Connection to backup proxy '<proxy name>' has been restored.",
+    "event_severity": "Info",
+    "event_source": null,
+    "event_section": "proxy server"
+  }
+}

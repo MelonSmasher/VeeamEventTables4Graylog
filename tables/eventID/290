@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "290",
+    "event_summary": "Restore session finished",
+    "event_details": "The restore session has finished with <State name> state.",
+    "event_severity": "Info, Warning, Error",
+    "event_source": null,
+    "event_section": "restore"
+  }
+}

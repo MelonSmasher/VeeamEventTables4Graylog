@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "361",
+    "event_summary": "SureBackup HV validation task finished",
+    "event_details": "VM <Vm name> validation task has finished with <State name> state.",
+    "event_severity": "Info, Warning, Error",
+    "event_source": null,
+    "event_section": "surebackup"
+  }
+}

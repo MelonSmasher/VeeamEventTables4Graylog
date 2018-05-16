@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "310",
+    "event_summary": "SureBackup job started",
+    "event_details": "<Job type> job '<Job name>' has been started.",
+    "event_severity": "Info",
+    "event_source": null,
+    "event_section": "surebackup"
+  }
+}

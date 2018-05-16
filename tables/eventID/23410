@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "23410",
+    "event_summary": "Second destination job has been assigned",
+    "event_details": "'<Job name>' job has been assigned as secondary destination for '<Job count>' jobs",
+    "event_severity": "Info",
+    "event_source": "Backup copy",
+    "event_section": "veeam backup & replication jobs"
+  }
+}

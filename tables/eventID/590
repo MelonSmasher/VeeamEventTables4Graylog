@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "590",
+    "event_summary": "File copy job finished",
+    "event_details": "The <Job type> Job '<Job name>' has finished with <State name> state.",
+    "event_severity": "Info, Warning, Error",
+    "event_source": "File copy",
+    "event_section": "veeam backup & replication jobs"
+  }
+}

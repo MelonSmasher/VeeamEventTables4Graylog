@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "610",
+    "event_summary": "Quick migration job has been finished",
+    "event_details": "QuickMigration job finished with '<0>' state.",
+    "event_severity": "Info, Warning, Error",
+    "event_source": "Quick migration",
+    "event_section": "veeam backup & replication jobs"
+  }
+}

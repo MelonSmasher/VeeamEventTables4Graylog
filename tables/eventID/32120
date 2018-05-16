@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "32120",
+    "event_summary": "Job objects deleted",
+    "event_details": "\"<object count>\" objects have been deleted for \"<Job Name>\".",
+    "event_severity": "Info",
+    "event_source": "Backup, Replication, Backup copy",
+    "event_section": "veeam backup & replication jobs"
+  }
+}

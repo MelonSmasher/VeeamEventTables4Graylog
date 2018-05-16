@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "24040",
+    "event_summary": "License support expiring",
+    "event_details": "Support contract for Veeam Backup & Replication is about to expire in <number of days> of Days.",
+    "event_severity": "Warning",
+    "event_source": null,
+    "event_section": "license"
+  }
+}

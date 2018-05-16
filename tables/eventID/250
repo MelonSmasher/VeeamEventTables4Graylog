@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "250",
+    "event_summary": "Restore VI task finished",
+    "event_details": "Restore for '<Object name>' has finished with <State name> state",
+    "event_severity": "Info, Warning, Error",
+    "event_source": null,
+    "event_section": "restore"
+  }
+}

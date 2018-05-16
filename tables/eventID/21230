@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "21230",
+    "event_summary": "Wan accelerator established connection",
+    "event_details": "Connection to WAN accelerator '<wan name>' has been restored.",
+    "event_severity": "Info",
+    "event_source": null,
+    "event_section": "wan accelerator"
+  }
+}

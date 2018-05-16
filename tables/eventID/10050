@@ -1,0 +1,10 @@
+{
+  "event": {
+    "event_id": "10050",
+    "event_summary": "Restore point removed",
+    "event_details": "Restore point for VM '<Vm name>' has been removed according to the configured retention policy.",
+    "event_severity": "Info",
+    "event_source": null,
+    "event_section": "veeam backup & replication jobs"
+  }
+}
